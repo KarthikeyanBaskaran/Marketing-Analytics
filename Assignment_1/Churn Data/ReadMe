@@ -1,0 +1,10 @@
+Lab:  Churn Analysis
+
+The purpose of the lab is to perform analysis of the customer base of an e-commerce site, determine the characteristics of the individuals who have stopped using the service (known as “customer churn”), and devise strategies to target similar individuals within the dataset and prevent them from changing.
+
+1.	Download the dataset from Blackboard.  The .csv file contains the dataset.  There is also a .xlsx file containing the data dictionary, with descriptions of what each column entails
+2.	Using Python tools, import the dataset as a Pandas Dataframe and perform analysis to determine the customer churn characteristics.  Your analysis should include cleaning the data (as needed), X-Y Scatter plots on appropriate variable pairs, and correlation testing.  
+a.	You are also permitted to use additional techniques which may not be listed, provided that you can submit a rationale for why the technique is useful and an indication of what you hope to achieve.
+3.	Perform decision tree and logistics regression models.
+a.	When splitting the data into train and test data, use test_size = 0.20. 
+4.	In a separate Word document, record your observations with respect to the customers who have already churned, and use it to identify the groups of people most likely to churn next.  Devise a high-level marketing strategy to entice these individuals to continue using the service.
